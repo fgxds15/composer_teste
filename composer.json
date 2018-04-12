@@ -1,0 +1,16 @@
+{
+    "name": "neo/neo",
+    "description": "teste com host",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fabio.xavier",
+            "email": "fabio.xavier@idealinvest.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Neo": "src" 
+        }
+    }
+}
